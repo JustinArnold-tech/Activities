@@ -1,0 +1,53 @@
+1. Make Cereal
+
+Find Bowl
+Place Bowl on counter
+Find Cereal
+Place Cereal on counter beside Bowl
+Find Spoon
+Place Spoon beside Bowl on counter
+Pour Cereal into Bowl until Bowl is full
+Grab Milk out of refridgerator
+Pour Milk into Bowl until Cereal is covered
+Place spoon in Bowl
+end
+
+2. Making Your Bed
+
+Get out of Bed
+Find Pillows
+Find the head of the Bed 
+Place Pillows at the head of the Bed horizontal to Bed
+Find Covers 
+Determine what part of the Covers goes near your head
+Lay Covers over the Bed and Pillows
+Tuck Covers in around the head of the Bed
+Find foot of the Bed
+Tuck covers in around the foot of the Bed
+Ensure Covers are smooth
+end
+
+3. Brushing Your Teeth
+
+Walk into Bathroom
+Locate Toothbrush
+Locate Toothpaste
+Locate water Faucet
+Locate Cold water Faucet handle
+Turn on Cold water by spining handle clockwise
+Grab Toothpaste
+Take the cap off of the Toothpaste
+Grab Toothbrush 
+Put Toothbrush under water
+Put Toothpaste on the bristle portion of Toothbrush
+Put Toothpaste down on counter
+Put Toothbrush in your mouth
+Brush teeth thourghly 
+Rinse out mouth with water
+Put Toothbrush away 
+Put cap on Toothpaste
+Put Toothpaste away
+Turn off water
+Wipe mouth
+end
+

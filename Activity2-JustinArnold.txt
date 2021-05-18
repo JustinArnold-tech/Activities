@@ -1,0 +1,86 @@
+0000 0000					255
+0						1111 1111	
+
+
+1001 0100					90
+128+16+4					0101 1010
+148
+
+
+0110 1111					47
+64+32+8+4+2+1					0010 1111
+111
+
+
+1001 1001					1024
+128+16+8+1					0100 0000 0000
+153
+
+
+1111 1111					674
+128+64+32+16+8+4+2+1				0010 1010 0010
+255
+
+
+1011 0001					1000
+128+32+16+1					0011 1110 1000
+177
+
+
+1110 0101					2048
+128+64+32+4+1					1000 0000 0000
+229
+
+
+1010 1010					1776
+128+32+8+2					0110 1111 0000
+170
+
+
+1101 0101					2020
+128+64+16+4+1					0111 1110 0100
+213
+
+
+1110 0001
+128+64+32+1
+225
+
+
+1001 0110
+128+16+4+2
+150
+
+
+10101110100
+1,396
+1024+256+64+32+16+4
+
+11111101011001
+8192+4096+2048+1024+512+256+64+16+8+1
+16,217
+
+
+1101010010101110
+32768+16384+4096+1024+128+32+8+4+2
+54,446
+
+
+Read bits right to left 
+First bit equals 2^0
+second bit equals 2^1
+Third bit equals 2^2
+Fourth bit equals 2^3
+and so forth
+For every bit thats not 1 disregard
+Add up all bits correlated to 1
+
+
+Read bits left to right
+Find the highest power of 2 that your number can go into
+That will be a 1
+Then subtract the difference of your number and the power of 2
+Then check if your number can go in to the next lowest power of 2
+Keep doing this until you have your bytes
+
+
