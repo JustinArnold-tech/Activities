@@ -1,6 +1,6 @@
-x = 2
-y = 3
-z = 5
+x = 24
+y = 26
+z = 25
 
 if(x < y) and (y < z):
     myTupil = (x, y, z)
@@ -9,9 +9,9 @@ elif(y < x) and (x < z):
 elif(z < y) and (y < x):
     myTupil = (z, y, x)
 elif(x < z) and (z < y):
-    myTupil = (y, z, x)
-elif(y < z) and (z < x):
     myTupil = (x, z, y)
+elif(y < z) and (z < x):
+    myTupil = (y, z, x)
 else:
     myTupil = (z, x, y)
 
