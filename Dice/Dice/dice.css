@@ -1,0 +1,37 @@
+#button1{
+    background-color: red;
+    font-weight: bold;
+}
+
+#button2{
+    background-color: rgb(5, 194, 68);
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+#P1S{
+    color: red;
+}
+
+#P2S{
+    color: rgb(5, 194, 68);
+}
+
+#P1{
+    color: red;
+}
+
+#P2{
+    color: rgb(5, 194, 68);
+}
+
+#DH3{
+    color: sandybrown;
+}
+
+#DH4{
+    color: sandybrown;
+}
